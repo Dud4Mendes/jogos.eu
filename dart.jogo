@@ -1,0 +1,24 @@
+class Character{
+  String nome = 'Monico';
+  double altura = 1.43;
+  double forca = 10;
+  double vitalidade = 10;
+  double velocidade = 7;
+
+}
+
+void andar() {
+    print("andando... velocidade 3");
+    bool pressionado = true;
+    String tecla = "W";
+    if (tecla == "W") {
+      estaPressionado
+
+    }
+  }
+
+
+
+void estaPressionado() {
+  bool pressionado = true;
+} 
